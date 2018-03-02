@@ -1,12 +1,24 @@
 {
   "name": "serverhtml",
   "version": "1.0.0",
-  "description": "",
+  "description": "Serwer http",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "jg",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JarekG99/task-13-8.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/JarekG99/task-13-8/issues"
+  },
+  "homepage": "https://github.com/JarekG99/task-13-8#readme",
+  "dependencies": {
+    "colors": "^1.1.2"
+  }
 }
